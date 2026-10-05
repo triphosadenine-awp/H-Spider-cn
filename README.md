@@ -6,10 +6,10 @@
 
 ## 软件下载
 软件已打包成独立的 Windows 软件（含 Python 环境），**推荐直接下载压缩包使用**：
-[点击这里下载 H-Spider-v1.zip](https://github.com/triphosadenine-awp/H-Spider-cn/raw/main/H-Spider-v1.1.zip)
+[点击这里下载 H-Spider-v1.1.zip](https://github.com/triphosadenine-awp/H-Spider-cn/raw/main/H-Spider-v1.1.zip)
 
 如果想单独下载 exe 文件：
-[点击这里下载 pc.exe](https://github.com/triphosadenine-awp/H-Spider-cn/raw/main/pc.1.1.exe)
+[点击这里下载 pc.1.1.exe](https://github.com/triphosadenine-awp/H-Spider-cn/raw/main/pc.1.1.exe)
 
 **使用说明：**
 1. 下载压缩包并解压。

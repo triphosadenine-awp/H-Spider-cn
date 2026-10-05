@@ -19,3 +19,6 @@
 ## 源码运行
 如果你想看代码是怎么写的，可以查看仓库中的 `pc.py` 文件。
 运行源码需要自行安装 Python 环境。
+## 历史下载
+* [H-Spider v1.0 初版下载](https://github.com/triphosadenine-awp/H-Spider-cn/raw/main/H-Spider-v1.zip)
+

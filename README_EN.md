@@ -6,10 +6,10 @@ This is a web scraper I wrote myself. It has countless bugs to this day. I'm not
 
 ## Download
 The software has been packaged as a standalone Windows application (including Python environment). **Recommended to download the zip archive**:
-[Download H-Spider-v1.3.zip](https://github.com/triphosadenine-awp/H-Spider-cn/releases/tag/v1.3)
+[Download H-Spider-v1.4.zip](https://github.com/triphosadenine-awp/H-Spider-cn/releases/tag/v1.4)
 
 If you prefer downloading the exe directly:
-[Download pc1.3.exe](https://github.com/triphosadenine-awp/H-Spider-cn/releases/tag/v1.3)
+[Download pc1.4.exe](https://github.com/triphosadenine-awp/H-Spider-cn/releases/tag/v1.4)
 
 **Usage:**
 1. Download and unzip the archive.
@@ -23,3 +23,4 @@ Running the source code requires a Python environment.
 * [H-Spider v1.0 初版下载](https://github.com/triphosadenine-awp/H-Spider-cn/raw/main/H-Spider-v1.zip)
 *[H-Spider v1.1](https://github.com/triphosadenine-awp/H-Spider-cn/raw/main/H-Spider-v1.1.zip)
 [H-Spider v1.2](https://github.com/triphosadenine-awp/H-Spider-cn/releases/tag/v1.2)
+* [H-Spider v1.3](https://github.com/triphosadenine-awp/H-Spider-cn/releases/tag/v1.3)
